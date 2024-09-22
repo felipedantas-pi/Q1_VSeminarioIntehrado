@@ -1,0 +1,36 @@
+---
+title: "Acessibilidade geográfica aos serviços de saíde para SARS em Teresina, Piauí"
+author: 
+  - name: Felipe Ramos Dantas
+    orcid: 0000-0002-8839-8759
+institute: "Instituto Federal do Piauí - Campus Teresina Central"
+date: last-modified
+date-format: "[Atualizado em:] MMMM, YYYY"
+lang: "pt-br"
+format: 
+  revealjs:
+    center-title-slide: true
+    controls: true
+    embed-resources: true
+    smaller: true
+    scrollable: true
+    theme: "./estilos/urbn.scss"
+    highlight-style: github
+    slide-number: true
+    incremental: false
+    toc: false
+    # toc-title: "Sumário"
+    transition: slide
+    background-transition: fade
+    height: 900
+    width: 1400
+    footer: "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí | 25 de setembro de 2024"
+    # logo: "imagens/ifpi.png"
+license: "CC BY"
+# bibliography: refs.bib
+title-slide-attributes: 
+    data-background-image: "imagens/mapeprof.png"
+    data-background-size: 20%
+    data-background-position: 90% 83%
+---
+
