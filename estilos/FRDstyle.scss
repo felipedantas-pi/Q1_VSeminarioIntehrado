@@ -71,6 +71,9 @@ $body-color: $black !default;
 $link-color: #b20e10;
 $body-bg: #ffffff;
 
+// slide bg colours
+$slide-background
+
 
 // Callouts
 $callout-color-note: $cyan;
@@ -185,6 +188,11 @@ h2 {
 .reveal .quarto-title-block .quarto-title-authors .quarto-title-author {
   padding-left: 3.5em;
   padding-right: 3.5em;
+}
+
+.reveal .quarto-title-block .quarto-title-authors .quarto-title-author .quarto-title-author-orcid img {
+  width: 40px;
+  height: 40px;
 }
 
 

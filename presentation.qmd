@@ -10,24 +10,22 @@ author:
         city: Teresina
         state: PI
         url: ifpi.edu.br
-  - name: Prof. Dr. Antônio Joaquim da Silva
+  - name: "Orientador: Prof. Dr. Antônio Joaquim da Silva"
     orcid: 0000-0002-8756-9464
-    degrees:
-      - B.S.
-      - PhD
     email: antoniojoaquim@ifpi.edu.br
     affiliation:
       - ref: ifpi
+        name: Instituto Federal do Piauí - Campus Teresina Central
         city: Teresina
         state: PI
         url: ifpi.edu.br
 # date: last-modified
 # date-format: "[Atualizado em:] MMMM, YYYY"
 lang: "pt-br"
-copyright: 
-  holder: Felipe Ramos Dantas
-  year: 2024
-license: "CC BY"
+# copyright: 
+#   holder: Felipe Ramos Dantas
+#   year: 2024
+# license: "CC BY"
 # bibliography: refs.bib
 format: 
   revealjs:
@@ -49,7 +47,7 @@ title-slide-attributes:
     data-background-opacity: "0.6"
 ---
 
-# Introdução/Contexto
+# Introdução/Contexto {.center}
 
 ## Problema de Pesquisa
 
@@ -59,7 +57,7 @@ title-slide-attributes:
 Como as desigualdades espaciais, socioeconômicas e os efeitos de congestionamento aos serviços de saúde para SARS impactam o acesso geográfico a leitos de UTI com ventiladores em Teresina, PI?
 :::
 
-- ALHUMA VOISA ^[Rodapé]
+- ALHUMA VOISA ^[Rodaep11ée]
 
 ::: aside
 Some additional commentary of more peripheral interest.
