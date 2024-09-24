@@ -111,14 +111,28 @@ Necessidade urgente de informações detalhadas sobre como o congestionamento e 
 
 # Objetivos {background="#43464B"}
 
-## {.larger}
+##
 
-::: {.callout-note icon="false"}
 ### Objetivo Geral
+
+::: {style="margin-bottom: 1.5em;"}
 Analisar acessibilidade geográfica aos serviços de saúde para Síndrome Respiratória Aguda Grave (SRAG), em alta resolução espacial, em Teresina, Piauí.
 :::
 
+### Objetivos Específicos
 
+::: {.fragment .fade-in-then-semi-out}
+* objetivo 1
+:::
+::: {.fragment .fade-in-then-semi-out}
+* objetivo 2
+:::
+::: {.fragment .fade-in-then-semi-out}
+* objetivo 3
+:::
+::: {.fragment .fade-in-then-semi-out}
+* objetivo 4
+:::
 
 # Fundamentação Teórica {background="#43464B"}
 
