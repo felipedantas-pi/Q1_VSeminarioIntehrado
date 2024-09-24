@@ -23,7 +23,7 @@ author:
 # date-format: "[Atualizado em:] MMMM, YYYY"
 lang: "pt-br"
 # copyright: 
-#   holder: Felipe Ramos Dantas
+#   holder: Felipe Ramos Danta
 #   year: 2024
 # license: "CC BY"
 # bibliography: refs.bib
@@ -47,7 +47,7 @@ title-slide-attributes:
     data-background-opacity: "0.6"
 ---
 
-# Introdução/Contexto {.center}
+# Introdução/Contexto
 
 ## Problema de Pesquisa
 

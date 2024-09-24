@@ -72,7 +72,7 @@ $link-color: #b20e10;
 $body-bg: #ffffff;
 
 // slide bg colours
-$slide-background
+$slide-background: $gray-700;
 
 
 // Callouts
@@ -133,7 +133,7 @@ $text-shadow: 0 1px 0 rgba(0, 0, 0, .05) !default;
   }
 }
 
-h2 {
+.reveal h2 {
   font-size: $presentation-h2-font-size;
   margin-top: 20px;
 }
