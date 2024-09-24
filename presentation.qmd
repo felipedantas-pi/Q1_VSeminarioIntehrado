@@ -4,21 +4,20 @@ author:
   - name: Felipe Ramos Dantas
     orcid: 0000-0002-8839-8759
     email: felipe.dantas@ifpi.edu.br
-    affiliation:
-      - id: ifpi
-        name: Instituto Federal do Piauí - Campus Teresina Central
-        city: Teresina
-        state: PI
-        url: ifpi.edu.br
+    affiliations:
+      - ref: ifpi
   - name: "Orientador: Prof. Dr. Antônio Joaquim da Silva"
     orcid: 0000-0002-8756-9464
+    degrees: Dr
     email: antoniojoaquim@ifpi.edu.br
-    affiliation:
+    affiliations:
       - ref: ifpi
-        name: Instituto Federal do Piauí - Campus Teresina Central
-        city: Teresina
-        state: PI
-        url: ifpi.edu.br
+affiliations:
+  - id: ifpi
+    name: Instituto Federal do Piauí - Campus Teresina Central
+    city: Teresina
+    state: PI
+    url: ifpi.edu.br
 # date: last-modified
 # date-format: "[Atualizado em:] MMMM, YYYY"
 lang: "pt-br"
@@ -47,34 +46,84 @@ title-slide-attributes:
     data-background-opacity: "0.6"
 ---
 
-# Introdução/Contexto
+# Introdução/Contextualização {background="#43464B"}
 
-## Problema de Pesquisa
+##
+
+::: {.columns}
+
+::: {.column width=40%}
+* Nas últimas duas décadas, a doença SARS emergiu como uma ameaça global à saúde pública
+  * SARS-CoV
+  * MERS
+  * SARS-CoV-2
+* Alta demanda de atendimento
+* Superlotação de unidades de saúde
+* Sobrecarga dos profissionais de saúde
+:::
+
+::: {.column width=15%}
+:::
+
+::: {.column width=40%}
+::: {.fragment .fade-up}
+* As pessoas e as unidades de saúde não estão distribuídas no espaço uniformemente o que 
+gera disparidades entre regiões e grupos populacionais (Wang, 2020)
+* Saber onde as pessoas estão e as facilidade de acesso a serviços essencial eles podem 
+conseguir é o conceito central da Acessibilidade Geográfica
+:::
+:::
+
+:::
+
+##
+
+::: {.columns}
+
+::: {.column width=40%}
+::: {style="margin-bottom: 1em;"}
+### Problema de Pesquisa
+:::
+
+Como as desigualdades espaciais, socioeconômicas e os efeitos de congestionamento aos 
+serviços de saúde para SARS impactam o acesso geográfico a leitos de UTI com ventiladores em Teresina, PI?
+:::
+
+::: {.column width=5%}
+:::
+
+::: {.column width=40%}
+::: {.fragment .fade-up}
+### Hipótese
+
+* Existe uma desigualdade significativa no acesso a estabelecimentos de saúde que possuem leitos de UTI com ventiladores em Teresina.
+* Grupos  de  baixa  renda, pessoas negras e idosos enfrentam maiores dificuldades de acesso, principalmente nas regiões periféricas da cidade.
+:::
+:::
+
+::: {.fragment .fade-up}
+### Justificativa
+
+Necessidade urgente de informações detalhadas sobre como o congestionamento e a distribuição desigual dos recursos de saúde, como leitos de UTI com ventiladores, afetam o acesso de populações vulneráveis aos cuidados  de  saúde  para  SARS.  Compreender  esses  desafios  é  crucial  para  o planejamento de políticas públicas que possam mitigar os efeitos de futuras epidemias ou pandemias em comunidades desfavorecidas e sobrecarregadas.
+:::
+
+:::
+
+# Objetivos {background="#43464B"}
+
+## {.larger}
 
 ::: {.callout-note icon="false"}
-## Problema de Pesquisa
-
-Como as desigualdades espaciais, socioeconômicas e os efeitos de congestionamento aos serviços de saúde para SARS impactam o acesso geográfico a leitos de UTI com ventiladores em Teresina, PI?
+### Objetivo Geral
+Analisar acessibilidade geográfica aos serviços de saúde para Síndrome Respiratória Aguda Grave (SRAG), em alta resolução espacial, em Teresina, Piauí.
 :::
 
-- ALHUMA VOISA ^[Rodaep11ée]
 
-::: aside
-Some additional commentary of more peripheral interest.
-:::
 
-::: footer
-Acessibilidade Geográfica aos serviços de saúde para SARS em Teresina, PI | V Seminário Integrador
-:::
+# Fundamentação Teórica {background="#43464B"}
 
-## Justificativa
+# Metodologia {background="#43464B"}
 
-# Objetivos
+# Resultados Esperados {background="#43464B"}
 
-# Fundamentação Teórica
-
-# Metodologia
-
-# Resultados Esperados
-
-# Referências
+# Referências {background="#43464B"}
