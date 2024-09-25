@@ -156,25 +156,27 @@ Analisar acessibilidade geográfica aos serviços de saúde para Síndrome Respi
 
 ## 2.2 Sistema Único de Saúde
 
-**Mundo**:
+* **Mundo**:
   * Declaração de Alma-Ata (1978)
   * Declaração de Astana (2018)
   * Meta 3.8 dos ODS
 
-**Brasil**:
+* **Brasil**:
   * SUS
     * Universalização
     * Regionalização
 
 ## 2.3 Acessibilidade geográfica aos serviços de saúde
 
+::: {style="text-align: center; font-size: 1.5em; font-weight: 700; margin-top:2em; margin-bottom: 3em"}
+Baseados em Área x Baseados em Distância
+:::
+
+::: {.fragment .fade-up}
 | Algoritmo | Vantagem | Desvantagem |
 | - | - | - |
-
-
-  * Menor distância/tempo de viagem
-    * simples e rápido
-  * 
+| Menor distância/tempo de viagem | simples e rápido | Não considera a distribuição espacial da oferta e demanda |
+:::
 
 # 3. Metodologia {background="#43464B"}
 
