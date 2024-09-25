@@ -294,12 +294,12 @@ Variáveis (continuação)
   - Plataformas de Mapeamento Colaborativos
     - OSM, OvertureMapas
 
-## Análise de dados
+## 4.4 Análise de dados
 
 - **Interpolação dasimétrica**: Os  dados  populacionais  serão  desagregados usando técnica dasimétrica para passar informações dos setores censitários para malha regular estatística de 200 metros considerando a intersecção e o tamanho populacional. Por fim, esses dados serão reagregados da grade regular para malha hexagonal H3.
 - **Modelo BFC**A: Um modelo baseado em FCA será empregado para estimar as pontuações de acessibilidade para diferentes grupos populacionais com base  na  proximidade  de  instalações  de  saúde,  malha  viária,  modo  de transporte, distância e tempo máximo de viagem.
 
-## População e amostragem
+## 4.5 População e amostragem
 
 >Será considerado toda a população da zona urbana de Teresina, não sendo necessárias técnicas de amostragem.
 
@@ -307,13 +307,22 @@ Variáveis (continuação)
 
 ##
 
-1. Espera-se ter uma base dados em alta resolução espacial para
+1. Espera-se ter uma base dados em alta resolução espacial;
+2. Identificar  regiões  de  baixa  acessibilidade  aos  serviços  de  saúde voltadas para o tratamento da SRAG;
+3. Estimar a população vulnerável que vivem em áreas precárias de acesso à saúde;
+4. Obter um Atlas de Exclusão Social à Saúde que servirá de subsídio aos tomadores de decisão.
 
-# 6. Referências {background="#43464B"}
+# 6 Cronograma de atividades {background="#43464B"}
+
+## 
+
+![](./imagens/cronograma.png){width="100%"}
+
+# 7. Referências {background="#43464B"}
 
 ## {.smaller .scrollable}
 
-::: {style="font-size: 0.8em";line-height:2em}
+::: {style="font-size: 0.8em;line-height:2em"}
 * ADAY, L. A.; ANDERSEN, R. A framework for the study of access to medical care. Health Services Research, [s. l.], v. 9, n. 3, p. 208–220, 1974. 
 * ADU, Philip; MILES, D. Anthony. Dissertation research methods: a step-by-step guide to writing up your research in the social sciences. 1. ed. Abingdon; New York: Routledge, 2023. 10
 * BIHIN, Jérémie; DE LONGUEVILLE, Florence; LINARD, Catherine. Spatial accessibility to health facilities in sub-saharan africa: comparing existing models with survey-based perceived accessibility. International Journal of Health Geographics, [s. l.], v. 21, n. 1, p. 18, 2022. Disponível em: https://ij- healthgeographics.biomedcentral.com/articles/10.1186/s12942-022-00318-z. Acesso em: 28 nov. 2023.
