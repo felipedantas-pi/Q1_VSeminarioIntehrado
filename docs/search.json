@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "presentation.html#section",
+    "href": "presentation.html#section",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "",
+    "text": "Problema de Pesquisa\n\nComo as desigualdades espaciais, socioeconômicas e os efeitos de congestionamento aos serviços de saúde para SARS impactam o acesso geográfico a leitos de UTI com ventiladores em Teresina, PI?\n\n\n\n\n\nHipótese\n\nExiste uma desigualdade significativa no acesso a estabelecimentos de saúde que possuem leitos de UTI com ventiladores em Teresina.\nGrupos de baixa renda, pessoas negras e idosos enfrentam maiores dificuldades de acesso, principalmente nas regiões periféricas da cidade.\n\n\n\n\nJustificativa\nNecessidade urgente de informações detalhadas sobre como o congestionamento e a distribuição desigual dos recursos de saúde, como leitos de UTI com ventiladores, afetam o acesso de populações vulneráveis aos cuidados de saúde para SARS. Compreender esses desafios é crucial para o planejamento de políticas públicas que possam mitigar os efeitos de futuras epidemias ou pandemias em comunidades desfavorecidas e sobrecarregadas."
+  },
+  {
+    "objectID": "presentation.html#section-1",
+    "href": "presentation.html#section-1",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "",
+    "text": "Objetivo Geral\n\nAnalisar acessibilidade geográfica aos serviços de saúde para Síndrome Respiratória Aguda Grave (SRAG), em alta resolução espacial, em Teresina, Piauí.\n\n\n\nObjetivos Específicos\n\n\nDesenvolver uma base de dados em alta resolução espacial que agregará dados socioeconômicos (idade, renda e raça/cor) e uma estimativa da contagem populacional;\n\n\n\n\n\nEstimar a população vulnerável que vive em áreas com acesso deficitário a serviços de saúde que poderiam fazer a triagem ou hospitalizar pacientes com SRAG.\n\n\n\n\nEstimar as desigualdades espaciais de rendimento e raciais no acesso a estabelecimentos de saúde que dispõe de leitos de Unidades de Terapia Intensiva (UTI) e ventiladores mecânicos, tendo em conta os efeitos de congestionamento."
+  },
+  {
+    "objectID": "presentation.html#definindo-acessibilidade-geográfica",
+    "href": "presentation.html#definindo-acessibilidade-geográfica",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "2.1 Definindo acessibilidade geográfica",
+    "text": "2.1 Definindo acessibilidade geográfica"
+  },
+  {
+    "objectID": "presentation.html#sistema-único-de-saúde",
+    "href": "presentation.html#sistema-único-de-saúde",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "2.2 Sistema Único de Saúde",
+    "text": "2.2 Sistema Único de Saúde\n\nMundo:\n\nDeclaração de Alma-Ata (1978)\nDeclaração de Astana (2018)\nMeta 3.8 dos ODS\n\nBrasil:\n\nSUS\n\nUniversalização\nRegionalização"
+  },
+  {
+    "objectID": "presentation.html#acessibilidade-geográfica-aos-serviços-de-saúde",
+    "href": "presentation.html#acessibilidade-geográfica-aos-serviços-de-saúde",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "2.3 Acessibilidade geográfica aos serviços de saúde",
+    "text": "2.3 Acessibilidade geográfica aos serviços de saúde\n\nBaseados em Área x Baseados em Distância\n\n\nTabela 1: Medir Acessibilidade Geográfica\n\n\n\n\n\n\n\nTipo\nModelo\nVantagens\n\n\n\n\nDistância\n\nMenor distância\nTempo de viagem\n\n\nSimples e rápido\n\n\nÁrea\n\n\nGravitacionais\n\nÁrea de Captação\nFlutuante (FCA)\n\nConsidera distância/tempo, distribuição espacial, interação/atração, concorrência."
+  },
+  {
+    "objectID": "presentation.html#section-2",
+    "href": "presentation.html#section-2",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "",
+    "text": "Modelos derivados do FCA\n\n\n2SFCA\n\n\n\n\n3SFCA\n\n\n\n\nM2SFCA\n\n\n\n\ni2SFCA\n\n\n\n\nBFCA\n\n\n\n\nPaez et.al.(2019)\n\n\nconsideram a variável congestionamente\nPereira et. al. (2021) empregou essa técnica para medir a acessibilidade geográfica à saúde durante a pandemia da COVID-19 nas 20 maiores cidades do Brasil."
+  },
+  {
+    "objectID": "presentation.html#section-3",
+    "href": "presentation.html#section-3",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "",
+    "text": "Contribuirá para o avanço do conhecimento sobre acessibilidade geográfica à saúde, oferecendo subsídios para elaboração ou avaliação de políticas públicas.\nFornecerá uma base sólida para estudos comparativos;"
+  },
+  {
+    "objectID": "presentation.html#delimitação-e-caracterização-da-área-de-estudo",
+    "href": "presentation.html#delimitação-e-caracterização-da-área-de-estudo",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "4.1 Delimitação e caracterização da área de estudo",
+    "text": "4.1 Delimitação e caracterização da área de estudo\n\nFigura 01: Área de Estudo\n\n\nFonte: Elaborado pelo autor (2024)"
+  },
+  {
+    "objectID": "presentation.html#métodos-e-técnicas",
+    "href": "presentation.html#métodos-e-técnicas",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "4.2 Métodos e Técnicas",
+    "text": "4.2 Métodos e Técnicas\n\nVariáveis\n\n\nDemográfica:\n\nDefinição conceitural: são as características da população\nDefinição operacional: serão coletados da base do censo demográfico e da grade estatística, ambos de 20101\nMensuração: agregação em uma grade hexagonal\n\nUnidades de Saúde:\n\nDefinição conceitural: localização geográfica dos estabelecimentos de saúde capazes de fornecer atendimento para SARS.\nDefinição operacional: serão obtidos da banco de dados CNES/DATASUS\nMensuração: analise da distribuição espacial\n\n\nSerá utilizada os dados do censo 2022 caso esteja disponível no período de coleta de dados desta pesquisa."
+  },
+  {
+    "objectID": "presentation.html#métodos-e-técnicas-1",
+    "href": "presentation.html#métodos-e-técnicas-1",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "4.2 Métodos e Técnicas",
+    "text": "4.2 Métodos e Técnicas\n\nVariáveis (continuação)\n\n\nAcessibilidade geográfica:\n\nDefinição conceitural: A facilidade com que os indivíduos em uma área geográfica podem chegar aos serviços de saúde.\nDefinição operacional: A acessibilidade será modelada usando a rede rodoviária, as rotas de ônibus públicos e a proximidade dos estabelecimentos de saúde.\nMensuração: será usado o modelo gravitacional, o BFCA."
+  },
+  {
+    "objectID": "presentation.html#coleta-de-dados",
+    "href": "presentation.html#coleta-de-dados",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "4.3 Coleta de dados",
+    "text": "4.3 Coleta de dados\n\nFontes de dados secundários\n\nÓrgãos públicos\n\nIBGE, DATASUS, Prefeitura Municipal de Teresina\n\nPlataformas de Mapeamento Colaborativos\n\nOSM, OvertureMapas"
+  },
+  {
+    "objectID": "presentation.html#análise-de-dados",
+    "href": "presentation.html#análise-de-dados",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "4.4 Análise de dados",
+    "text": "4.4 Análise de dados\n\nInterpolação dasimétrica: Os dados populacionais serão desagregados usando técnica dasimétrica para passar informações dos setores censitários para malha regular estatística de 200 metros considerando a intersecção e o tamanho populacional. Por fim, esses dados serão reagregados da grade regular para malha hexagonal H3.\nModelo BFCA: Um modelo baseado em FCA será empregado para estimar as pontuações de acessibilidade para diferentes grupos populacionais com base na proximidade de instalações de saúde, malha viária, modo de transporte, distância e tempo máximo de viagem."
+  },
+  {
+    "objectID": "presentation.html#população-e-amostragem",
+    "href": "presentation.html#população-e-amostragem",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "4.5 População e amostragem",
+    "text": "4.5 População e amostragem\n\nSerá considerado toda a população da zona urbana de Teresina, não sendo necessárias técnicas de amostragem."
+  },
+  {
+    "objectID": "presentation.html#section-4",
+    "href": "presentation.html#section-4",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "",
+    "text": "Espera-se ter uma base dados em alta resolução espacial;\nIdentificar regiões de baixa acessibilidade aos serviços de saúde voltadas para o tratamento da SRAG;\nEstimar a população vulnerável que vivem em áreas precárias de acesso à saúde;\nObter um Atlas de Exclusão Social à Saúde que servirá de subsídio aos tomadores de decisão."
+  },
+  {
+    "objectID": "presentation.html#section-6",
+    "href": "presentation.html#section-6",
+    "title": "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí",
+    "section": "",
+    "text": "ADAY, L. A.; ANDERSEN, R. A framework for the study of access to medical care. Health Services Research, [s. l.], v. 9, n. 3, p. 208–220, 1974.\nADU, Philip; MILES, D. Anthony. Dissertation research methods: a step-by-step guide to writing up your research in the social sciences. 1. ed. Abingdon; New York: Routledge, 2023. 10\nBIHIN, Jérémie; DE LONGUEVILLE, Florence; LINARD, Catherine. Spatial accessibility to health facilities in sub-saharan africa: comparing existing models with survey-based perceived accessibility. International Journal of Health Geographics, [s. l.], v. 21, n. 1, p. 18, 2022. Disponível em: https://ij- healthgeographics.biomedcentral.com/articles/10.1186/s12942-022-00318-z. Acesso em: 28 nov. 2023.\nBOSCOE, F. P. (org.). Geographic health data: fundamental techniques for analysis. 1. ed. UK: CABI, 2013. Disponível em: http://www.cabidigitallibrary.org/doi/book/10.1079/9781780640891.0000. Acesso em: 28 nov. 2023.\nBRASIL. Sistema Único de Saúde - SUS. [S. l.], 2024. Disponível em: https://www.gov.br/saude/pt- br/sus/sus. Acesso em: 20 set. 2024.\nBUENO, Paulo Henrique De Carvalho; LIMA, Antônia Jesuíta De. Centralidade dos serviços de saúde na zona leste de Teresina (PI): uma análise de sua produção espacial. Caderno de Geografia, [s. l.], v. 27, n. 1, p. 29–53, 2017. Disponível em: http://periodicos.pucminas.br/index.php/geografia/article/view/p.2318-2962.2017v27nesp1p29. Acesso em: 3 jan. 2023.\nCROMLEY, Gordon; LIN, Jie. Examining the impact of COVID-19 vaccination rates on differential access to critical care. Applied Geography, [s. l.], v. 145, p. 102751, 2022. Disponível em: https://www.sciencedirect.com/science/article/pii/S0143622822001229. Acesso em: 20 set. 2024.\nCUCINOTTA, Domenico; VANELLI, Maurizio. WHO Declares COVID-19 a Pandemic. Acta Bio Medica : Atenei Parmensis, [s. l.], v. 91, n. 1, p. 157–160, 2020. Disponível em: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7569573/. Acesso em: 29 ago. 2024.\nDAWSON, Catherine. A-Z of digital research methods. London ; New York, NY: Routledge, Taylor & Francis Group, 2020.\nESPINDOLA, Giovana Mira De; CARNEIRO, Eduilson Lívio Neves Da Costa; FAÇANHA, Antonio Cardoso. Four decades of urban sprawl and population growth in Teresina, Brazil. Applied Geography, [s. l.], v. 79, p. 73–83, 2017. Disponível em: https://www.sciencedirect.com/science/article/pii/S014362281630844X. Acesso em: 18 out. 2023.\nGATRELL, Anthony C. et al. Spatial point pattern analysis and its application in geographical epidemiology. Transactions of the Institute of British Geographers, [s. l.], v. 21, n. 1, p. 256, 1996. Disponível em: https://www.jstor.org/stable/622936?origin=crossref. Acesso em: 4 nov. 2022.\nGIOVANELLA, Lígia et al. De Alma-Ata a Astana. Atenção primária à saúde e sistemas universais de saúde: compromisso indissociável e direito humano fundamental. Cadernos de Saúde Pública, [s. l.], v. 35, n. 3, p. e00012219, 2019. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2019000300301&tlng=pt. Acesso em: 24 ago. 2024.\nGUAGLIARDO, Mark F. Spatial accessibility of primary care: concepts, methods and challenges. International Journal of Health Geographics, [s. l.], 2004.\nH3: UBER’S HEXAGONAL HIERARCHICAL SPATIAL INDEX. [S. l.], 2018. Disponível em: https://www.uber.com/blog/h3/. Acesso em: 1 set. 2024.\nHASSLER, Jacob et al. Towards more realistic measures of accessibility to emergency departments in sweden. International Journal of Health Geographics, [s. l.], v. 23, n. 1, p. 6, 2024. Disponível em: https://doi.org/10.1186/s12942-024-00364-9. Acesso em: 5 mar. 2024.\nHUI, David S. C.; ZUMLA, Alimuddin. Severe Acute Respiratory Syndrome: Historical, Epidemiologic, and Clinical Features. Infectious Disease Clinics of North America, [s. l.], v. 33, n. 4, p. 869–889, 2019. 11\nJÖRG, Reto; HALDIMANN, Lucas. MHV3SFCA: A new measure to capture the spatial accessibility of health care systems. Health & Place, [s. l.], v. 79, p. 102974, 2023. Disponível em: https://www.sciencedirect.com/science/article/pii/S1353829223000114. Acesso em: 24 ago. 2024.\nKANG, Jeon-Young et al. Rapidly measuring spatial accessibility of COVID-19 healthcare resources: a case study of Illinois, USA. International Journal of Health Geographics, [s. l.], v. 19, n. 1, p. 1–17, 2020. Disponível em: https://ij.healthgeographics.biomedcentral.com/articles/10.1186/s12942-020- 00229-x. Acesso em: 18 set. 2024.\nKHAN, Abdullah A. An integrated approach to measuring potential spatial access to health care services. Socio-Economic Planning Sciences, [s. l.], v. 26, n. 4, p. 275–287, 1992. Disponível em: https://linkinghub.elsevier.com/retrieve/pii/003801219290004O. Acesso em: 16 maio 2024.\nLUO, Wei; QI, Yi. An enhanced two-step floating catchment area (E2SFCA) method for measuring spatial accessibility to primary care physicians. Health & Place, [s. l.], v. 15, n. 4, p. 1100–1107, 2009. Disponível em: https://www.sciencedirect.com/science/article/pii/S1353829209000574. Acesso em: 23 ago. 2024.\nLUO, Wei; WANG, Fahui. Measures of spatial accessibility to health care in a GIS environment: synthesis and a case study in the chicago region. Environment and Planning B-planning & Design, [s. l.], v. 30, n. 6, p. 865–884, 2003. Disponível em: https://doi.org/10.1068/b29120. Acesso em: 3 jan. 2023.\nMACHARIA, Peter M.; BANKE-THOMAS, Aduragbemi; BEŇOVÁ, Lenka. Advancing the frontiers of geographic accessibility to healthcare services. Communications Medicine, [s. l.], v. 3, n. 1, p. 1–4, 2023. Disponível em: https://www.nature.com/articles/s43856-023-00391-w. Acesso em: 19 nov. 2023.\nMANONGI, Rachel et al. Inpatient child mortality by travel time to hospital in a rural area of Tanzania. Tropical Medicine & International Health, [s. l.], v. 19, n. 5, p. 555–562, 2014. Disponível em: https://onlinelibrary.wiley.com/doi/abs/10.1111/tmi.12294. Acesso em: 23 ago. 2024.\nMARCONI, Marina De Andrade; LAKATOS, Eva Maria. Metodologia científica. 7. ed. São Paulo: Editora Atlas Ltda, 2017.\nMCLAFFERTY, Sara L. GIS and Health Care. Annual Review of Public Health, [s. l.], v. 24, n. 1, p. 25–42, 2003. Disponível em: https://www.annualreviews.org/doi/10.1146/annurev.publhealth.24.012902.141012. Acesso em: 7 abr. 2024.\nNEUTENS, Tijs. Accessibility, equity and health care: review and research directions for transport geographers. Journal of Transport Geography, [s. l.], v. 43, p. 14–27, 2015. Disponível em: https://linkinghub.elsevier.com/retrieve/pii/S0966692315000034. Acesso em: 28 nov. 2023.\nOUMA, Paul O. et al. Geospatial mapping of timely access to inpatient neonatal care and its relationship to neonatal mortality in Kenya. PLOS Global Public Health, [s. l.], v. 2, n. 6, p. e0000216, 2022. Disponível em: https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0000216. Acesso em: 23 ago. 2024.\nPAEZ, Antonio; HIGGINS, Christopher D.; VIVONA, Salvatore F. Demand and level of service inflation in Floating Catchment Area (FCA) methods. PLOS ONE, [s. l.], v. 14, n. 6, p. e0218773, 2019. Disponível em: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218773. Acesso em: 21 ago. 2024.\nPENCHANSKY, Roy; THOMAS, J William. The Concept of Access: Definition and Relationship to Consumer Satisfaction. Medical Care, [s. l.], v. 19, n. 2, p. 127–140, 1981. Disponível em: http://journals.lww.com/00005650-198102000-00001. Acesso em: 27 abr. 2024.12\nPEREIRA, Rafael H. M. et al. Geographic access to COVID-19 healthcare in brazil using a balanced float catchment area approach. Social Science & Medicine, [s. l.], v. 273, p. 113773, 2021. Disponível em: https://linkinghub.elsevier.com/retrieve/pii/S0277953621001052. Acesso em: 28 nov. 2023.\nQGIS DEVELOPMENT TEAM. QGIS Geographic Information System. versão 3.38.3. Grenoble: Open Source Geospatial Foundation Project, 2024. Disponível em: https://www.qgis.org/. Acesso em: 18 set. 2024.\nR CORE TEAM. A Language and Environment for Statistical ## Computing. Vienna, Autria: R Foundation for Statistical Computing, 2024. Disponível em: https://www.r-project.org/. Acesso em: 20 set. 2024.\nRADKE, John; MU, Lan. Spatial Decompositions, Modeling and Mapping Service Regions to Predict Access to Social Programs. Geographic Information Sciences, [s. l.], v. 6, n. 2, p. 105–112, 2000. Disponível em: https://doi.org/10.1080/10824000009480538. Acesso em: 20 set. 2024.\nSHAH, Tayyab Ikram; BELL, Scott; WILSON, Kathi. Spatial Accessibility to Health Care Services: Identifying under-Serviced Neighbourhoods in Canadian Urban Areas. PLOS ONE, [s. l.], v. 11, n. 12, p. e0168208, 2016. Disponível em: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168208. Acesso em: 24 ago. 2024.\nWANG, Fahui. Why public health needs GIS: a methodological overview. Annals of GIS, [s. l.], v. 26, n. 1, p. 1–12, 2020. Disponível em: https://www.tandfonline.com/doi/full/10.1080/19475683.2019.1702099. Acesso em: 28 nov. 2023.\nWHO. Declaration of Alma-Ata. [S. l.]: World Health Organization. Regional Office for Europe, 1978. Disponível em: https://iris.who.int/handle/10665/347879. Acesso em: 21 ago. 2024.\nWHO. Declaration of Astana. [S. l.: s. n.], 2018. Disponível em: https://www.who.int/docs/default- source/primary-health/declaration/gcphc-declaration.pdf. Acesso em: 21 ago. 2024.\nWHO. SDG Target 3.8. [S. l.], 2015. Disponível em: https://www.who.int/data/gho/data/themes/theme- details/GHO/universal-health-coverage. Acesso em: 21 ago. 2024.\nWORLD HEALTH ORGANIZATION. WHO Coronavirus (COVID-19) Dashboard. , 2023. Disponível em: https://data.who.int/dashboards. Acesso em: 29 ago. 2024.dashboard\nYANG, Yongshi et al. The deadly coronaviruses: The 2003 SARS pandemic and the 2020 novel coronavirus epidemic in China. Journal of Autoimmunity, [s. l.], v. 109, p. 102434, 2020. Disponível em: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7126544/. Acesso em: 20 set. 2024.\nZHU, Hong et al. Bibliometric Analysis of Spatial Accessibility from 1999–2022. Sustainability, [s. l.], v. 15, n. 18, p. 13399, 2023. Disponível em: https://www.mdpi.com/2071-1050/15/18/13399. Acesso em: 17 ago. 2024."
+  }
+]
