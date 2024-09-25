@@ -163,7 +163,11 @@ $text-shadow: 0 1px 0 rgba(0, 0, 0, .05) !default;
 // footer 
 .reveal .footer p {
   color: $cyan;
-  font-size: .8em;
+  font-size: .5em;
+}
+
+.reveal .footer a {
+  color: #e84a27 !important;
 }
 
 // body  

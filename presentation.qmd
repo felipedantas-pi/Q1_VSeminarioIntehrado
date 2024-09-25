@@ -31,14 +31,29 @@ format:
     controls: true
     embed-resources: true
     theme: "./estilos/FRDstyle.scss"
-    highlight-style: github
-    slide-number: "h/v"
+    # slide-number: "h/v"
+    menu: false
     incremental: false
     transition: slide
     background-transition: fade
     width: 1920
     height: 1080
     # footer: "Acessibilidade geográfica aos serviços de saúde para SARS em Teresina, Piauí | 25 de setembro de 2024"
+    navigation-mode: vertical
+    controls-layout: bottom-right
+    verticator:
+      themetag: 'h1'
+      color: ''
+      inversecolor: ''
+      skipuncounted: false
+      clickable: true
+      position: 'auto'
+      offset: '3vmin'
+      autogenerate: true
+      tooltip: false
+      scale: 1
+revealjs-plugins:
+  - verticator
 title-slide-attributes: 
     data-background-image: "./imagens/logo-mapeprof-ifpi-1400x500px.png"
     data-background-size: 25%
@@ -46,14 +61,14 @@ title-slide-attributes:
     data-background-opacity: "0.6"
 ---
 
-# Introdução/Contextualização {background="#43464B"}
+# 1. Introdução/Contextualização {background="#43464B"}
 
-##
+---
 
 ::: {.columns}
 
 ::: {.column width=40%}
-* Nas últimas duas décadas, a doença SARS emergiu como uma ameaça global à saúde pública
+* Nas últimas duas décadas, a doença SARS emergiu como uma ameaça global à saúde pública:
   * SARS-CoV
   * MERS
   * SARS-CoV-2
@@ -119,25 +134,50 @@ Necessidade urgente de informações detalhadas sobre como o congestionamento e 
 Analisar acessibilidade geográfica aos serviços de saúde para Síndrome Respiratória Aguda Grave (SRAG), em alta resolução espacial, em Teresina, Piauí.
 :::
 
+::: {.fragment}
 ### Objetivos Específicos
 
 ::: {.fragment .fade-in-then-semi-out}
-* objetivo 1
+1.	Desenvolver uma base de dados em alta resolução espacial que agregará dados socioeconômicos (idade, renda e raça/cor) e uma estimativa da contagem populacional;
+:::
 :::
 ::: {.fragment .fade-in-then-semi-out}
-* objetivo 2
+2.	Estimar a população vulnerável que vive em áreas com acesso deficitário a serviços de saúde que poderiam fazer a triagem ou hospitalizar pacientes com SRAG.
 :::
 ::: {.fragment .fade-in-then-semi-out}
-* objetivo 3
-:::
-::: {.fragment .fade-in-then-semi-out}
-* objetivo 4
+3.	Estimar as desigualdades espaciais de rendimento e raciais no acesso a estabelecimentos de saúde que dispõe de leitos de Unidades de Terapia Intensiva (UTI) e ventiladores mecânicos, tendo em conta os efeitos de congestionamento.
 :::
 
-# Fundamentação Teórica {background="#43464B"}
+# 2 Fundamentação Teórica {background="#43464B"}
 
-# Metodologia {background="#43464B"}
+## 2.1 Definindo acessibilidade geográfica
 
-# Resultados Esperados {background="#43464B"}
+![](./imagens/access/image.png){fig-align="center"}
 
-# Referências {background="#43464B"}
+## 2.2 Sistema Único de Saúde
+
+**Mundo**:
+  * Declaração de Alma-Ata (1978)
+  * Declaração de Astana (2018)
+  * Meta 3.8 dos ODS
+
+**Brasil**:
+  * SUS
+    * Universalização
+    * Regionalização
+
+## 2.3 Acessibilidade geográfica aos serviços de saúde
+
+| Algoritmo | Vantagem | Desvantagem |
+| - | - | - |
+
+
+  * Menor distância/tempo de viagem
+    * simples e rápido
+  * 
+
+# 3. Metodologia {background="#43464B"}
+
+# 4. Resultados Esperados {background="#43464B"}
+
+# 5. Referências {background="#43464B"}
