@@ -168,18 +168,105 @@ Analisar acessibilidade geográfica aos serviços de saúde para Síndrome Respi
 
 ## 2.3 Acessibilidade geográfica aos serviços de saúde
 
-::: {style="text-align: center; font-size: 1.5em; font-weight: 700; margin-top:2em; margin-bottom: 3em"}
+::: {style="text-align: center; font-size: 1.5em; font-weight: 700; margin: 1em 0 2em 0"}
 Baseados em Área x Baseados em Distância
 :::
 
-::: {.fragment .fade-up}
-| Algoritmo | Vantagem | Desvantagem |
-| - | - | - |
-| Menor distância/tempo de viagem | simples e rápido | Não considera a distribuição espacial da oferta e demanda |
+```{=html}
+<table>
+  <caption>Tabela 1: Medir Acessibilidade Geográfica</caption>
+  <thead>
+    <tr>
+      <th style="text-align: center">Tipo</th>
+      <th style="text-align: center">Modelo</th>
+      <th style="text-align: center">Vantagens</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: middle">Distância</td>
+      <td>
+        <ul>
+          <li>Menor distância</li>
+          <li>Tempo de viagem</li>
+        <ul>
+      </td>
+      <td style="vertical-align: middle">Simples e rápido</td>
+    </tr>
+    <tr>
+      <td style="vertical-align: middle">Área</td>
+      <td>
+        <ul>
+          <li>Gravitacionais
+          <ul>
+            <li>Área de Captação<br>Flutuante (FCA)</li>
+        </ul>
+      </td>
+      <td style="vertical-align: middle">
+        Considera distância/tempo, distribuição espacial, interação/atração, concorrência.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+```
+##
+
+#### Modelos derivados do FCA
+
+::: {.fragment .fade-in-then-semi-out}
+* 2SFCA
+:::
+::: {.fragment .fade-in-then-semi-out}
+* 3SFCA
+:::
+::: {.fragment .fade-in-then-semi-out}
+* M2SFCA
+:::
+::: {.fragment .fade-in-then-semi-out}
+* i2SFCA
+:::
+::: {.fragment}
+* **BFCA**
+
+::: {.callout-important icon="false"}
+## Paez et.al.(2019)
+consideram a variável **congestionamente** 
+
+Pereira et. al. (2021) empregou essa técnica para medir a acessibilidade geográfica à saúde 
+durante a pandemia da COVID-19 nas 20 maiores cidades do Brasil.
+:::
 :::
 
-# 3. Metodologia {background="#43464B"}
+# 3 Contribuição Científica {background="#43464B"}
 
-# 4. Resultados Esperados {background="#43464B"}
+## 
 
-# 5. Referências {background="#43464B"}
+* Contribuirá para o avanço do conhecimento sobre acessibilidade geográfica à saúde, oferecendo
+subsídios para elaboração ou avaliação de políticas públicas.
+* Fornecerá uma base sólida para estudos comparativos;
+
+
+# 4. Metodologia {background="#43464B"}
+
+## 4.1 Delimitação e caracterização da área de estudo
+
+::: {style="text-align: center; font-size: .8em; margin: 1em 0 0"}
+Figura 01: Área de Estudo
+:::
+
+![Fonte: Elaborado pelo autor (2024)](./imagens/%C3%81rea%20de%20Estudo%20-%20Teresina.png){fig-align="center" width="80%"}
+
+## 4.2 Métodos e Técnicas
+
+### Variáveis
+
+* **Demográfica**
+* **Unidades de Saúde**
+* **Acessibilidade geográfica**
+
+### Abordagem
+
+# 5. Resultados Esperados {background="#43464B"}
+
+# 6. Referências {background="#43464B"}
