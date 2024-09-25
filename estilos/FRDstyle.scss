@@ -138,6 +138,13 @@ $text-shadow: 0 1px 0 rgba(0, 0, 0, .05) !default;
   margin-top: 20px;
 }
 
+.reveal h4 {
+  font-size: $presentation-h4-font-size;
+  color: #000;
+  margin-top: 20px;
+  text-align: center;
+}
+
 .fonte-gifs {
   font-size: 0.5em;
 }
