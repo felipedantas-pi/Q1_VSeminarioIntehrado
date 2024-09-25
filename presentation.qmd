@@ -312,6 +312,8 @@ Variáveis (continuação)
 3. Estimar a população vulnerável que vivem em áreas precárias de acesso à saúde;
 4. Obter um Atlas de Exclusão Social à Saúde que servirá de subsídio aos tomadores de decisão.
 
+![Fonte: Pereira et. al. (2021)](./imagens/pereiraetal2021_FOR.png)
+
 # 6 Cronograma de atividades {background="#43464B"}
 
 ## 
